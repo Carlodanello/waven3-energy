@@ -3,7 +3,6 @@
   "aboutus": "À propos de nous",
   "projects": "Projets",
   "contactus": "Contactez-nous",
-  "crypto": "Crypto",
   "joinus": "Rejoignez-nous",
   "aboutustext": "Technology est une société de haute technologie opérant dans les domaines de l'hydrogène et de l'intelligence artificielle. Notre mission est de financer des projets qui génèrent des crédits carbone, attirant ainsi des fonds pour le bien-être collectif de chaque citoyen du monde. Tout ce processus sera canalisé dans l'écosystème d'échange de crédits carbone. La création de crédits carbone s'étend à différents secteurs tels que l'énergie, la haute technologie, les ressources naturelles, l'éducation et plusieurs autres. Ensemble, nous offrons une solution durable, transmettant aux générations futures un avenir meilleur et une planète plus verte.",
   "companyname": "Waven",
@@ -102,7 +101,6 @@
       "Technologies de capture de carbone",
       "Technologies de l'hydrogène",
       "Carburants propres",
-      "Technologie de la Blockchain",
       "Éducation",
       "Engrais"
     ],
@@ -124,33 +122,8 @@
     "identification": "Numero D'identification",
     "validation1": "Ce champ est obligatoire.",
     "validation2": "Longueur maximale de 100 caractères.",
-    "messaggebutton": "ENVOYER UN MESSAGE"
-  },
-
-  "cryptotoken": {
-    "title": "JETON CRYPTO",
-    "text1": "Nous créerons la référence en matière de crypto-monnaie avec une interchangeabilité avec d'autres cryptos sur notre future bourse.",
-    "text2": "Notre jeton sera approuvé par l'organe gouvernemental suisse responsable de la réglementation financière.",
-    "image1": "La FINMA est l'organe gouvernemental suisse responsable de la réglementation financière. Cela comprend la supervision des banques, des compagnies d'assurance, des bourses et des courtiers en valeurs mobilières ainsi que d'autres intermédiaires financiers en Suisse.",
-    "image2": "Tout passera par nos technologies propriétaires pour sécuriser et échanger les jetons et les crédits carbone sur la blockchain et éliminer la fraude et le double comptage et garantir la retraite. Pour la première fois, cela sera réalisé sur le web 3.0.",
-    "data": [
-      {
-        "line1": "L'environnement à travers des avantages monétaires.",
-        "line2": "Transparence et responsabilité grâce à la technologie blockchain."
+    "messaggebutton": "ENVOYER UN MESSAGE 
       },
-      {
-        "line1": "Efficacité et rentabilité grâce à une administration minimale.",
-        "line2": "Accessibilité mondiale grâce à une bourse mondiale."
-      },
-      {
-        "line1": "Liquidité et négociabilité grâce à la tokenisation.",
-        "line2": "Innovation et évolutivité grâce à la technologie blockchain pour le trading."
-      },
-      {
-        "line1": "Engagement communautaire grâce à des avantages financiers et à l'apprentissage en ligne.",
-        "line2": "Fidélité grâce à des remises et un programme de promotions spéciales pour le propriétaire de notre crypto."
-      }
-    ]
   },
 
   "joinuspage": {
@@ -167,7 +140,6 @@
     "company": "Société",
     "projectprocess": "Processus de projet",
     "accreditationprocess": "Processus d'accréditation",
-    "cryptotoken": "Jetons cryptographiques",
     "marketopportunity": "Opportunité du marché",
     "copyright": "2024. Waven3 Technology. Tous droits réservés."
   },
